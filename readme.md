@@ -8,6 +8,7 @@ Click on any .ipynb file to render it in Github. The Notebook files with somethi
 Eventually I will also update the "Machine Learning" notebook with various results. 
 
 Notes for Reacreating the Entire Repo and Running .py files:
+
 1. Git clone entire repo
 2. Use virtual environment to install dependencies (requirements.txt file coming soon). Note: .py files run in Python 2, .ipynb are upcoded to Python 3. (Sorry! I know this is lame, and I will fix it soon.)
 3. Edit "sample_config.py" to point to your database of choice and rename to "config.py"
